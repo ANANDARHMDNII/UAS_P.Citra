@@ -1,5 +1,4 @@
-https://images.app.goo.gl/8f1RX3GZpSbhtBBD8 
-
+![YOLOv8](images/yolov8-architecture.png)
 
 <h1 align="center" font-weight="bold"> UAS Pengolahan Citra</h1>
 
