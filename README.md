@@ -1,6 +1,3 @@
-![YOLOv8 Cover](https://raw.githubusercontent.com/username/yolo-app/main/images/yolov8-cover.png)
-
-
 <h1 align="center" font-weight="bold"> UAS Pengolahan Citra</h1>
 
 ```
